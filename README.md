@@ -39,7 +39,7 @@ Coloque o arquivo de texto que deseja indexar no mesmo diretório do executável
 Execute o programa:
 
 ```
-./arvore_patricia
+./patricia
 ```
 
 O programa irá imprimir as palavras encontradas e as linhas em que cada uma aparece.
